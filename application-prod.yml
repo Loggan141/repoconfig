@@ -5,4 +5,4 @@ spring:
       port: 27017
 
 server:
-  port: 8095
+  port: 9095
